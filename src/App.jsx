@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div>ajay dev</div>
+      <div>ajay dev2</div>
     </>
   );
 }
